@@ -11,3 +11,4 @@ require 'pry'
 def get_the_keys(groceries)
  
 end
+puts get_the_keys(groceries)
